@@ -1,5 +1,5 @@
 {
-  "framework": "tap",
+  "framework": "jasmine",
   "src_files": ["build/test.js"],
   "launch_in_dev": [ "chrome" ]
 }
